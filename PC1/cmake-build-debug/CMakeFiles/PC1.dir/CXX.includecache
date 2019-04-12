@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Escritorio/practica-calificada-1-Fgarcia19/PC1/TwoLinkedList.cpp
+iostream
+-
+TwoLinkedList.h
+/home/utec/Escritorio/practica-calificada-1-Fgarcia19/PC1/TwoLinkedList.h
+string
+-
+
+/home/utec/Escritorio/practica-calificada-1-Fgarcia19/PC1/TwoLinkedList.h
+string
+-
+
+/home/utec/Escritorio/practica-calificada-1-Fgarcia19/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+/home/utec/Escritorio/practica-calificada-1-Fgarcia19/PC1/TwoLinkedList.h
+
